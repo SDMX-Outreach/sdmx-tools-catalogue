@@ -1,4 +1,4 @@
-# sdmx-tools-catalogue
+# sdmx-tools-catalogue [DRAFT]
 Welcome to the Central inventory for SDMX tools resources GitHub project and source code repository.
 
 This repository is linked to the Learning Resources page at [https://sdmx.org/tools/](https://sdmx.org/tools) that is maintained by the SDMX Secretariat.
