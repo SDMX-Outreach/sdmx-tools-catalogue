@@ -1,0 +1,46 @@
+{
+    "sdmxtools" : {
+        "tools" : [
+             {
+                "name" : "pysdmx",
+                "description" : "pysdmx is a pragmatic and opinionated library written in Python. It focuses on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX",
+                "owner" : "BIS",
+                "license" : "Apache",
+                "url" : "https://www.sdmx.io/tools/pysdmx/",
+                "image" : "https://www.sdmx.io/images/tools/linkage-x/pysdmx_logo_final_RGB.svg"
+            },
+            {
+                "name" : "SDMX Dashboard Generator",
+                "description" : "The SDMX Dashboard Generator (SDMX DG), co-winner of the SDMX Global Conference 2023 Hackathon, is an open source application that generates dynamic dashboards.",
+                "owner" : "BIS",
+                "license" : "Apache",
+                "url" : "https://www.sdmx.io/tools/sdmx-dg/",
+                "image" : "https://www.sdmx.io/images/tools/sdmx-dg/Logo_RGB_colored.svg"
+            },
+            {
+                "name" : "Gingado",
+                "description" : "gingado is a machine learning library focused on economics and finance use cases. This package aims to be suitable for beginners and advanced users alike. Use cases may range from programmatic data retrievals using SDMX to experimentation with machine learning-based econometric estimators to more complex forecasting pipelines used in production.",
+                "owner" : "BIS",
+                "license" : "Apache",
+                "url" : "https://www.sdmx.io/tools/gingado/",
+                "image" : "https://www.sdmx.io/images/tools/linkage-x/logo-gingado.svg"
+            },
+            {
+                "name" : ".Stat Suite",
+                "description" : "The .Stat Suite is a standard-based, componentised, open-source platform for the efficient production and dissemination of high-quality statistical data. The product is based on the General Statistical Process Model (GSBPM) and the Statistical Data and Metadata eXchange standards.",
+                "owner" : "OECD",
+                "license" : "MIT",
+                "url" : "https://www.sdmx.io/tools/stat-suite/",
+                "image" : "https://www.sdmx.io/images/tools/statsuite-base.svg"
+            },
+            {
+                "name" : "SDMX converter",
+                "description" : "The SDMX Converter is a tool that converts statistical datasets between different formats (SDMX-ML, GESMES, Excel, DSPL)",
+                "owner" : "Eurostat",
+                "license" : "Free",
+                "url" : "https://cros.ec.europa.eu/dashboard/sdmx-converter",
+                "image" : "https://ec.europa.eu/eurostat/o/adaptive-media/image/17995989/Thumbnail-128x128/EN_04_SDMX_Converter_API.png?t=1701270530811"
+            }
+        ]
+    }
+}
