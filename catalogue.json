@@ -3,13 +3,13 @@
         "resources": [
             {
                 "description": "sdmx.io is not a single project but an ecosystem of open source tools, patterns, guidance, learning materials and other resources like pre-configured containerised environments that make the software quick and simple to deploy. Sdmx.io, a valuable resource for tool developers as well as adopters.",
-                "extended_text" : "This is an extended text to add more information about the resource."
+                "extended_text" : "This is an extended text to add more information about the resource.",
                 "url": "https://wwww.sdmx.io",
                 "image": "https://www.sdmx.io/images/icons/Kraken_Main.svg"
             },
             {
                 "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions.",
-                "extended_text" : "This is an extended text to add more information about the resource."
+                "extended_text" : "This is an extended text to add more information about the resource.",
                 "url": "https://www.sdmx.io/tools/sdmx-tck/",
                 "image": "https://www.sdmx.io/images/tools/sdmx-tck/TCK_Logo_RGB.svg"
             }
@@ -18,7 +18,7 @@
             {
                 "name": "pysdmx",
                 "description": "pysdmx is a pragmatic and opinionated library written in Python. It focuses on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX",
-                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc."
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/pysdmx/",
@@ -27,7 +27,7 @@
             {
                 "name": "SDMX Dashboard Generator",
                 "description": "The SDMX Dashboard Generator (SDMX DG), co-winner of the SDMX Global Conference 2023 Hackathon, is an open source application that generates dynamic dashboards.",
-                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc."
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/sdmx-dg/",
@@ -36,7 +36,7 @@
             {
                 "name": "Gingado",
                 "description": "gingado is a machine learning library focused on economics and finance use cases. This package aims to be suitable for beginners and advanced users alike. Use cases may range from programmatic data retrievals using SDMX to experimentation with machine learning-based econometric estimators to more complex forecasting pipelines used in production.",
-                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc."
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/gingado/",
@@ -45,7 +45,7 @@
             {
                 "name": ".Stat Suite",
                 "description": "The .Stat Suite is a standard-based, componentised, open-source platform for the efficient production and dissemination of high-quality statistical data. The product is based on the General Statistical Process Model (GSBPM) and the Statistical Data and Metadata eXchange standards.",
-                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc."
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
                 "owner": "OECD",
                 "license": "MIT",
                 "url": "https://www.sdmx.io/tools/stat-suite/",
@@ -54,7 +54,7 @@
             {
                 "name": "SDMX converter",
                 "description": "The SDMX Converter is a tool that converts statistical datasets between different formats (SDMX-ML, GESMES, Excel, DSPL)",
-                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc."
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
                 "owner": "Eurostat",
                 "license": "Free",
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-converter",
