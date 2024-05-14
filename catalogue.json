@@ -1,18 +1,19 @@
 {
     "sdmxtools": {
         "resources": [
+           {
+                "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions.",
+                "extended_text" : "This is an extended text to add more information about the resource.",
+                "url": "https://www.sdmx.io/tools/sdmx-tck/",
+                "image": "https://www.sdmx.io/images/tools/sdmx-tck/TCK_Logo_RGB.svg"
+            },
             {
                 "description": "sdmx.io is not a single project but an ecosystem of open source tools, patterns, guidance, learning materials and other resources like pre-configured containerised environments that make the software quick and simple to deploy. Sdmx.io, a valuable resource for tool developers as well as adopters.",
                 "extended_text" : "This is an extended text to add more information about the resource.",
                 "url": "https://wwww.sdmx.io",
                 "image": "https://www.sdmx.io/images/icons/Kraken_Main.svg"
-            },
-            {
-                "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions.",
-                "extended_text" : "This is an extended text to add more information about the resource.",
-                "url": "https://www.sdmx.io/tools/sdmx-tck/",
-                "image": "https://www.sdmx.io/images/tools/sdmx-tck/TCK_Logo_RGB.svg"
             }
+            
         ],
         "tools": [
             {
@@ -46,10 +47,64 @@
                 "name": ".Stat Suite",
                 "description": "The .Stat Suite is a standard-based, componentised, open-source platform for the efficient production and dissemination of high-quality statistical data. The product is based on the General Statistical Process Model (GSBPM) and the Statistical Data and Metadata eXchange standards.",
                 "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
-                "owner": "OECD",
+                "owner": "SIS-CC (OECD)",
                 "license": "MIT",
-                "url": "https://www.sdmx.io/tools/stat-suite/",
-                "image": "https://www.sdmx.io/images/tools/statsuite-base.svg"
+                "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/",
+                "image": "https://sis-cc.gitlab.io/.stat-suite/design/demo/logos-svg/images/statsuite-base.svg"
+            },
+            {
+                "name": ".Stat Data Explorer",
+                "description": "The .Stat Suite Data Explorer, a web-based application to easily find, access, and share data through a well-tuned navigation. Powered by the open-source platform .Stat Suite for the dissemination of Official Statistics.",
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-data-explorer-de",
+                "image": "https://sis-cc.gitlab.io/.stat-suite/design/demo/logos-svg/images/dotstat-de-base.svg"
+            },
+             {
+                "name": ".Stat Data Lifecycle Manager",
+                "description": "The .Stat Data Lifecycle Manager, a set of adaptive back-office modules to efficiently and timely produce and (re-)use high quality statistical data by defining, running, automating, controlling and evaluating the underlying data processes.",
+                "extended_text" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-data-lifecycle-manager-dlm",
+                "image": "https://sis-cc.gitlab.io/.stat-suite/design/demo/logos-svg/images/dotstat-dlm-base.svg"
+            },
+            {
+                "name": ".Stat Core",
+                "description": "Fast and secure SDMX Data Store leveraging Eurostat’s (NSI Web Service implementation within its SDMX Reference Infrastructure.",
+                "extended_text": "Stores and retrieves statistical data & attribute values, localizable structural & referential metadata, data process information & user roles and permissions. Allows customising the authentication method with any identity provider based on the OpenID Connect standard. Implements a secure configuration approach. Allows managing separate physical versions of data as it goes through the statistical production life cycle (raw input data, processed data, data prepared for dissemination/reporting, disseminated/reported data, archived data, …) by using multiple instances of the Data Store facilitated with a specific data transfer service.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-core",
+                "image": "https://sis-cc.gitlab.io/.stat-suite/design/demo/logos-svg/images/dotstat-core-base.svg"
+            },
+            {
+                "name": ".Stat DLM Excel Add-in",
+                "description": ".Stat DLM Excel Add-in is an Excel facilitator for data and referential metadata retrieval and editing. Directly within Excel it gives access to in-progress or published data, from internal or external SDMX data sources.",
+                "extended_text": "The DLM Excel Add-in is packaged as a ClickOnce application and is deployed using the common procedure for deployment of ClickOnce applications. The installation files are accessible from here along with more information about deployment, set up and configuration.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/using-dlm-excel-addin/",
+                "image": "https://sis-cc.gitlab.io/dotstatsuite-documentation/images/dlm-excel-add-in_logo.png"
+            },
+            {
+                "name": "SDMX Matrix Generator",
+                "description": "The SIS-CC SDMX Matrix Generator can be used to visually model and design SDMX data artefacts, and generate the SDMX-ML markup for implementation. It is an enhancement of the Generic SDMX Design Matrix which has proven to be successful as a collaborative design tool for non-SDMX experts.",
+                "extended_text": "The primary goal of the tool is to be able to create the artefacts without a lot of SDMX technical knowledge, and to put the focus on the statistical aspects of the data model.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://gitlab.com/sis-cc/sdmx-tools/sdmx-matrix-generator",
+                "image": "https://gitlab.com/uploads/-/system/project/avatar/22866015/SDMX_matrix_generator_logo.png"
+            },
+            {
+                "name": "SDMX Power BI connector",
+                "description": "The SDMX Power BI connector makes it really simple for Power-BI report builders to quickly get data from an SDMX web service without having to bother about technical things like HTTP headers and parsing labels from codes. It can connect to any SDMX REST web service that supports the standard SDMX REST HTTP headers and can output SDMX-CSV (such as the NSI web service that is implemented by .Stat and many other platforms).",
+                "extended_text": "The SDMX Power BI Connector was officially certifed by Microsoft in March 2023.",
+                "owner": "SIS-CC (OECD)",
+                "license": "MIT",
+                "url": "https://gitlab.com/sis-cc/sdmx-tools/sdmx-power-bi",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQq6JJ5Y4aCQG2UYQMLDOTdlqzK_XTp11rXg&usqp=CAU"
             },
             {
                 "name": "SDMX converter",
