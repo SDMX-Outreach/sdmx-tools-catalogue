@@ -19,7 +19,8 @@ Under the repository > code, locate and open the catalogue.json file. Depending 
 *In all cases the following information is required:*
 
 - **Name:** Short and precise name of the tool
-- **Description:** Short and concise description of the tool
+- **Description:** Short and concise description with a few lines of the tool
+- **Supported features:** A few bullet points of what the tool supports. [List to b eprovided]
 - **Owner:** The organisation reposible for the tool
 - **License:** License needed for the tool, e.g. Apache, MIT or if no license just Free
 - **URL:** Link to access the tool information, if no external page is available an internal page on sdmx.org can be created
