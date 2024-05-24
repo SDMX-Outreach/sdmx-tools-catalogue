@@ -19,7 +19,7 @@
             {
                 "name": "pysdmx",
                 "description": "pysdmx is a pragmatic and opinionated library written in Python. It focuses on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>first bullet point</li><li>second bullet point</li><li>third bullet point</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/pysdmx/",
