@@ -8,7 +8,7 @@ body:
       value: |
         **Please complete the following details describing your SDMX software tool. You will need to provide two URLs**
         - URL that users can follow for more information. This could be a website, a product page or a link to the tool's source code repository like GitHub or GitLab.
-        - URL of an the tool's logo image.
+        - URL of the tool's logo image.
   - type: input
     id: contact
     attributes:
@@ -36,7 +36,7 @@ body:
     id: extendeddescription
     attributes:
       label: Extended description
-      description: An extended description if needed detailing the tool's key features and operating requirements such as the platforms it runs on and SDMX versions. Simple HTML formatting can be used such as `<ul>` and `<ol>` lists.
+      description: An extended description if needed detailing the tool's key features and operating requirements such as the platforms it runs on and SDMX versions. Simple HTML formatting can be used such as `<ul>` and `<ol>` for bullet and number lists, `<strong>` and `<p>`. Please keep to less than 200 words. 
     validations:
       required: false      
   - type: dropdown
