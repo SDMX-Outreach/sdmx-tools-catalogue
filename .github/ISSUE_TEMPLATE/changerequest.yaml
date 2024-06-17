@@ -1,0 +1,78 @@
+name: sdmx.org tools catalogue entry
+description: Add an entry to the sdmx.org software tools catalogue
+title: (e.g. New SDMX spftware tool) 
+labels: ["changerequest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please complete the following details describing your SDMX software tool. You will need to provide two URLs**
+        - URL that users can follow for more information. This could be a website, a product page or a link to the tool's source code repository like GitHub or GitLab.
+        - URL of an the tool's logo image.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: e.g. email@example.com
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      description: The name of the software tool.
+      placeholder: e.g. SDMX converter
+    validations:
+      required: true      
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: A short description of the tool - 40 words or less.
+    validations:
+      required: true
+  - type: textarea
+    id: extendeddescription
+    attributes:
+      label: Extended description
+      description: An extended description if needed detailing the tool's key features and operating requirements such as the platforms it runs on. Simple HTML formatting can be used such as <ul> and <ol> lists.
+    validations:
+      required: false      
+  - type: dropdown
+    id: license
+    attributes:
+      label: License
+      description: Select the tool's license
+      options:
+        - MIT
+        - Apache
+        - BSD
+        - Creative Commons
+        - GPL
+        - Other open source
+        - Proprietary
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Product owner
+      description: Please enter the name of the organisation who develops and owns the tool - 20 characters or less. e.g. Eurostat
+    validations:
+      required: true           
+  - type: input
+    id: toolurl
+    attributes:
+      label: The URL for more information on your software tool
+      description: Please enter a publicly-accessible URL of a web page or source code repository that users can follow for more information.
+    validations:
+      required: true   
+  - type: input
+    id: imageurl
+    attributes:
+      label: The URL of a logo image for your tool
+      description: Please enter a publicly-accessible URL of a logo image for your tool. The image can be png, jpeg or svg.
+    validations:
+      required: true
