@@ -1,6 +1,6 @@
 name: sdmx.org tools catalogue entry
 description: Add an entry to the sdmx.org software tools catalogue
-title: (e.g. New SDMX spftware tool) 
+title: (e.g. New SDMX software tool) 
 labels: ["changerequest"]
 body:
   - type: markdown
@@ -36,7 +36,7 @@ body:
     id: extendeddescription
     attributes:
       label: Extended description
-      description: An extended description if needed detailing the tool's key features and operating requirements such as the platforms it runs on. Simple HTML formatting can be used such as <ul> and <ol> lists.
+      description: An extended description if needed detailing the tool's key features and operating requirements such as the platforms it runs on and SDMX versions. Simple HTML formatting can be used such as `<ul>` and `<ol>` lists.
     validations:
       required: false      
   - type: dropdown
