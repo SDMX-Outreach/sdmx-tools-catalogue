@@ -29,4 +29,4 @@ Under the repository > code, locate and open the catalogue.json file. Depending 
 ------------------------------------------
 ## Example of the tools page
 
-<table><tr><td><img src="images/page_1.png" alt="Top Tools page" style="width:500px;height:600px;"><td><td><img src="images/page_2.png" alt="Top Tools page" style="width:500px;height:600px;"></td></tr></table>
+<table><tr><td><img src="images/page_1.png" alt="Top Tools page"><td><td><img src="images/page_2.png" alt="Top Tools page"></td></tr></table>
