@@ -20,7 +20,7 @@ Under the repository > code, locate and open the catalogue.json file. Depending 
 
 - **Name:** Short and precise name of the tool
 - **Description:** Short and concise description with a few lines of the tool
-- **Supported features:** A few bullet points of what the tool supports. Basic html tags like &lt:ul&gt: &lt:/ul&gt: can be sued to create the list
+- **Supported features:** A few bullet points of what the tool supports. Basic html tags like &lt;ul&gt; &lt;/ul&gt; can be sued to create the list
 - **Owner:** The organisation reposible for the tool
 - **License:** License needed for the tool, e.g. Apache, MIT or if no license just Free
 - **URL:** Link to access the tool information, if no external page is available an internal page on sdmx.org can be created
