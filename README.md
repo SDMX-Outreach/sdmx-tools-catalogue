@@ -25,3 +25,8 @@ Under the repository > code, locate and open the catalogue.json file. Depending 
 - **License:** License needed for the tool, e.g. Apache, MIT or if no license just Free
 - **URL:** Link to access the tool information, if no external page is available an internal page on sdmx.org can be created
 - **Image:** URL to an online image to be used as a thumbnail for the listing (please make sure it is licence free)
+
+------------------------------------------
+## Example of the tools page
+
+<table border-style: none;><tr><td><img src="images/page_1.png" alt="Top Tools page"><td><td><img src="images/page_2.png" alt="Top Tools page"></td></tr></table>
