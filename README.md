@@ -11,10 +11,10 @@ There are three ways in which to submit a request for adding a tool to the Tools
 
 1. Send an email to contact@sdmx.org providing the necessary information as detailed below.
 
-2. Create an issue in this project providing the necessary information as detailed below.
+2. Create an issue <a href="https://github.com/SDMX-Outreach/sdmx-learning-catalogue/issues">here</a>, click the "New issue" button and then "Get started" and provide the necessary information, in the form that will open, as detailed below.
    
 3. Fork the main branch (or clone it locally), make the changes completing the necesssary information as detailed below, and submit a pull request
-Under the repository > code, locate and open the catalogue.json file. Depending on the number of new entries you wish to add, you can copy an existing entry and then paste it immediately below the one that you copied replacing the values with the new information. Once complete, you can submit your pull request with a comment summarising the changes made. A project maintainer will then review the pull request to ensure it is suitable for merging with the main branch. They may reply with a comment requesting further information or clarifications, or in some cases changes. Once approved the changes will be merged with the main branch and made available on sdmx.org.
+Under the repository code, locate and open the catalogue.json file. Depending on the number of new entries you wish to add, you can copy an existing entry and then paste it immediately below the one that you copied replacing the values with the new information. Once complete, you can submit your pull request with a comment summarising the changes made. A project maintainer will then review the pull request to ensure it is suitable for merging with the main branch. They may reply with a comment requesting further information or clarifications, or in some cases changes. Once approved the changes will be merged with the main branch and made available on sdmx.org.
 
 *In all cases the following information is required:*
 
