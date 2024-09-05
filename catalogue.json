@@ -114,6 +114,15 @@
                 "license": "Free",
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-converter",
                 "image": "https://ec.europa.eu/eurostat/o/adaptive-media/image/17995989/Thumbnail-128x128/EN_04_SDMX_Converter_API.png?t=1701270530811"
+            },
+            {
+                "name": "RJSDMX",
+                "description": "rsdmx is a package to parse/read SDMX data and metadata in R. It provides a) a set of classes and methods to read data and metadata documents exchanged through the Statistical Data and Metadata Exchange (SDMX) framework. The package currently focuses on the SDMX XML standard format (SDMX-ML); and b) an interface to SDMX web-services for a list of well-known data providers, such as EUROSTAT, OECD, and others.",
+                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "owner": "Emanuel Blondel",
+                "license": "MIT",
+                "url": "https://github.com/opensdmx/rsdmx/wiki",
+                "image": ""
             }
         ]
     }
