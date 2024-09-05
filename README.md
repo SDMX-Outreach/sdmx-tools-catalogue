@@ -5,7 +5,7 @@ This repository is linked to the Learning Resources page at [sdmx.org tools page
 
 ------------------------------------------
 
-**How to add a training to the Tools Resources page**
+**How to add a tool to the Tools Resources page**
 
 There are three ways in which to submit a request for adding a tool to the Tools page:
 
