@@ -151,7 +151,7 @@
                 "url": "http://sdmx.herokuapp.com",
                 "image": ""
             },
-             {
+            {
                 "name": "QuantHub SDMX SaaS Platform",
                 "description": "QuantHub is a Cloud platform, designed specifically to address the three pillars of digital transformation focused on democratizing access to internal and external data sources, data analysis and data dissemination across the enterprise and public space.  QuantHub is targeted to produce and manage macro and micro economic data products using SDMX 3.0 data model.",
                 "supported_features": "Data Ingestion Pipelines ; Data Modeling using SDMX 3.0 ; Data Transformation using Python ; Data Dissemination using SDMX API, Portal tools, Download; Integrations with Excel, Jupyter, PowerBI; Data and System Artifact’s Entitlement.",
