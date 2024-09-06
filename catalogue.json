@@ -19,16 +19,43 @@
             {
                 "name": "pysdmx",
                 "description": "pysdmx is a pragmatic and opinionated library written in Python. It focuses on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX",
-                "supported_features" : "<ul><li>first bullet point</li><li>second bullet point</li><li>third bullet point</li></ul>",
+                "supported_features" : "<ul><li>Simplified subset of the SDMX information model in Python</li><li>Retrieve metadata from an SDMX registry to drive statistical processes</li><li>Data discovery and data retieval</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/pysdmx/",
                 "image": "https://www.sdmx.io/images/tools/linkage-x/pysdmx_logo_final_RGB.svg"
             },
             {
+                "name": "Fusion Metadata Registry (FMR)",
+                "description": "Fusion Metadata Registry (FMR) is a free to use SDMX structural metadata registry, data modelling platform and data processing engine for official statistics producers, collectors and reporters",
+                "supported_features" : "<ul><li>A controlled repository for SDMX structural metadata, which acts as a single source of truth for: automated metadata-driven data processing systems, metadata needed by data providers in data collections, structures for the purposes of standardisation, statistical data harmonisation, and communal benefit</li><li>Three integrated metadata-driven data processing services: data validation, data transformation (mapping data between structures) and conversion of data between SDMX data formats.</li><li>Metadata authoring and maintenance web UI, enabling metadata managers to browse, author and maintain their structural metadata model.</li></ul>",
+                "owner": "BIS",
+                "license": "Apache",
+                "url": "https://www.sdmx.io/tools/fmr/",
+                "image": "https://www.sdmx.io/tools/fmr/FMR-Logo_FINAL_Icon.svg"
+            },       
+            {
+                "name": "FMR Workbench",
+                "description": "The FMR Workbench is a remote registry browser and metadata maintenance tool which brings the strengths and capabilities of the FMR User Interface to any SDMX compliant registry, implementing an SDMX RESTful API",
+                "supported_features" : "The FMR Workbench is a remote registry browser and metadata maintenance tool which brings the strengths and capabilities of the FMR User Interface to any SDMX compliant registry, implementing an SDMX RESTful API. One significant use case for FMR Workbench users is the ability to connect to .Stat-Suite spaces for browsing and maintaining .Stat-Suite structural metadata",
+                "owner": "BIS",
+                "license": "Apache",
+                "url": "https://www.sdmx.io/tools/fwb/",
+                "image": "https://www.sdmx.io/images/tools/fwb-logo.jpg"
+            },      
+            {
+                "name": "Fusion Transformer",
+                "description": "Fusion Transformer is a Java command line application that can be run on both Windows and Unix for transforming SDMX data and structure files supporting EDI, XML, JSON and CSV",
+                "supported_features" : "<ul><li>SDMX structure messages: SDMX 2.0, 2.1, 3.0, XML and JSON</li><li>SDMX data messages: SDMX 2.1, 3.0, EDI, XML, JSON, CSV</li></ul>",
+                "owner": "BIS",
+                "license": "Apache",
+                "url": "https://www.sdmx.io/resources/download/ft/",
+                "image": "https://www.sdmx.io/images/products/card-ft.png"
+            },                              
+            {
                 "name": "SDMX Dashboard Generator",
                 "description": "The SDMX Dashboard Generator (SDMX DG), co-winner of the SDMX Global Conference 2023 Hackathon, is an open source application that generates dynamic dashboards.",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>Most common visualization types such as key performance indicators (KPIs), lines, pie and bar charts</li><li>Dynamic integration of metadata available in multiple languages</li><li>Modularity and customizability of the dashboard layout and design set easily by the user via a specification file</li><li>Asynchronous retrieval of data and metadata from SDMX Rest API to ensure better performance</li><li>Running both on a local machine or on a server</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/sdmx-dg/",
@@ -37,7 +64,7 @@
             {
                 "name": "Gingado",
                 "description": "gingado is a machine learning library focused on economics and finance use cases. This package aims to be suitable for beginners and advanced users alike. Use cases may range from programmatic data retrievals using SDMX to experimentation with machine learning-based econometric estimators to more complex forecasting pipelines used in production.",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>Data augmentation, to add more data from official sources using SDMX, improving the machine models being trained by the user</li><li>Relevant datasets, both real and simulated, to allow for easier model development and comparison</li><li>Automatic benchmark model, to assess candidate models against a reasonably well-performant model</li><li>Machine learning-based estimators, to help answer questions of academic or practical importance</li><li>Support for model documentation, to embed documentation and ethical considerations in the model development phase</li><li>Utilities, including tools to allow for lagging variables in a straightforward way</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/gingado/",
@@ -123,7 +150,7 @@
                 "license": "AGPL-3.0 license",
                 "url": "http://sdmx.herokuapp.com",
                 "image": ""
-            }
+            },
              {
                 "name": "QuantHub SDMX SaaS Platform",
                 "description": "QuantHub is a Cloud platform, designed specifically to address the three pillars of digital transformation focused on democratizing access to internal and external data sources, data analysis and data dissemination across the enterprise and public space.  QuantHub is targeted to produce and manage macro and micro economic data products using SDMX 3.0 data model.",
