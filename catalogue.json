@@ -122,7 +122,7 @@
                 "owner": "Banque de France (Macroeconomic Analysis and Forecasting Directorate)",
                 "license": "AGPL-3.0 license",
                 "url": "http://sdmx.herokuapp.com",
-                "image": ""
+                "image": "/images/tools/eviews.png"
             },
             {
                 "name": "QuantHub SDMX SaaS Platform",
@@ -131,7 +131,7 @@
                 "owner": "EPAM Systems",
                 "license": "Commercial License",
                 "url": "https://quanthub.cloud",
-                "image": "/images/tools/eviews.png"
+                "image": ""
             }
         ]
     }
