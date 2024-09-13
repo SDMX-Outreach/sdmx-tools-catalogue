@@ -136,7 +136,7 @@
            {
                 "name": "SDMX Converter",
                 "description": "The SDMX Converter makes it possible to Transform the existing data file format into the one of the user's choosing and / or verify that the structure of the data file match the information comprised in the Data Structure Definition (DSD)",
-                "supported_features" : "The SDMX Converter is able to read various formats. For a complete list please go to <a href="https://cros.ec.europa.eu/dashboard/sdmx-converter#Conversions%20supported%20by%20formats">SDMX Converter supported formats</a>",
+                "supported_features" : "The SDMX Converter is able to read various formats. For a complete list please go to <a href=\"https://cros.ec.europa.eu/dashboard/sdmx-converter#Conversions%20supported%20by%20formats\">SDMX Converter supported formats</a>",
                 "owner": "Eurostat",
                 "license": "Free",
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-converter",
