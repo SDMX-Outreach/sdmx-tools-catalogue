@@ -160,7 +160,33 @@
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-ri",
                 "image": "https://cros.ec.europa.eu/system/file/OIVV6XstQK_RX3IMUzG-0owq5D-bQF3HwzsrnwV5hmU/1726236000/2024-09/EN_06_SDMX_Reference_Infrastructure_copy.png"
             },
-
+            {
+                "name": "SDMX Constructor",
+                "description": "The SDMX Constructor is a very simple, powerful standalone tool designed to facilitate the modelling of aggregate data in accordance with SDMX standards. It is able to create and customize SDMX structural artifacts thereby enhancing the availability and accessibility of data through SDMX-compliant portals, such as the .Stat Suite.",
+                "supported_features": "<ul><li>Creation and editing of essential SDMX structural metadata artifacts (such as DSD, Codelist, and Dataflow) aligned with predefined data models.</li><li>Integration at the structural data modeling phase, serving as a backend interface for seamless interoperability with the .Stat DLM via its SDMX API entry-point. </li><li>Capability to retrieve existing artifacts from any SDMX web service for review and modification, as well as effortless uploading of newly designed or modified artifacts through the API. </li></ul>",
+                "owner": "Department of Statistics, International Labour Organization (ILO)",
+                "license": "Free",
+                "url": "https://ilostat.github.io/dsdc/index.html",
+                "image": "https://webapps.ilo.org/ilostat/tools/dsdConstructor/images/dsdc_logo.png"
+            },
+            {
+                "name": "Statistical Metadata-driven Analysis & Reporting Tool (SMART)",
+                "description": "The SMART is a statistical processor and transcoding tool able to produce datasets by processing microdata or aggregate data in several formats, according to the structural metadata read from a Dataflow or DSD. The output files can be generated in diverse formats, intended for analysis, data reporting or to feed a dissemination platform.",
+                "supported_features": "<ul><li> Configure SDMX dataset output based on DSD or dataflow;</li><li>read microdata or aggregated data from various formats, including SPSS, Stata, CSV, Excel, SDMX-ML, or SDMX-CSV;</li><li>retrieve existing data from any SDMX web service for review, mapping, and conversion;</li><li>utilize graphical tools for data visualization and command-line utilities for batch processing;</li><li>implement reusable mapping files and establish reproducible workflows;</li><li>upload the generated SDMX datasets directly via the SDMX API entry-point.</li></ul>",
+                "owner": "Department of Statistics, International Labour Organization (ILO)",
+                "license": "Free",
+                "url": "https://ilostat.github.io/smart/index.html",
+                "image": "https://webapps.ilo.org/ilostat/tools/smart/images/smart_logo.png"
+            },
+            {
+                "name": "LMIS Excel Add-in",
+                "description": "The LMIS Excel Add-in is a specialized software designed to facilitate data exchange with the .Stat Suite Data Lifecycle Manager (DLM), particularly for LMIS (Labour Market Information System) implementations with Excel. Its primary functionality includes the ability to download and upload data efficiently to and from the DLM end to Excel.",
+                "supported_features": "<ul><li> handle data transactions with any standard SDMX registries to download and upload data to Excel;</li><li>With graphic interface to specify the SDMX web service entry point;</li><li>upload selected dataset in Worksheet directly via the SDMX API entry-point.</li></ul>",
+                "owner": "Department of Statistics, International Labour Organization (ILO)",
+                "license": "Free",
+                "url": "https://webapps.ilo.org/ilostat/tools/SdmxExcelAddin/Install.htm",
+                "image": ""
+            },
             {
                 "name": "SDMX in EViews",
                 "description": "SDMX in EViews is a web-application to download SDMX data into EViews. The app is built upon EViews ability to read HTML tables and works by translating HTML requests into SDMX requests and SDMX data into HTML table that can be easily downloaded by EViews.",
