@@ -133,15 +133,34 @@
                 "url": "https://gitlab.com/sis-cc/sdmx-tools/sdmx-power-bi",
                 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQq6JJ5Y4aCQG2UYQMLDOTdlqzK_XTp11rXg&usqp=CAU"
             },
-            {
-                "name": "SDMX converter",
-                "description": "The SDMX Converter is a tool that converts statistical datasets between different formats (SDMX-ML, GESMES, Excel, DSPL)",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+           {
+                "name": "SDMX Converter",
+                "description": "The SDMX Converter makes it possible to Transform the existing data file format into the one of the user's choosing and / or verify that the structure of the data file match the information comprised in the Data Structure Definition (DSD)",
+                "supported_features" : "The SDMX Converter is able to read various formats. For a complete list please go to [SDMX Converter supported formats](https://cros.ec.europa.eu/dashboard/sdmx-converter#Conversions%20supported%20by%20formats)",
                 "owner": "Eurostat",
                 "license": "Free",
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-converter",
                 "image": "https://ec.europa.eu/eurostat/o/adaptive-media/image/17995989/Thumbnail-128x128/EN_04_SDMX_Converter_API.png?t=1701270530811"
             },
+ {
+                "name": "SDMX Source",
+                "description": "The SDMX Source is a powerful tool that allows programmers write a single block of code to perform key data processes such as data validation and / or exchange",
+                "supported_features" : "The SDMX Source is available in Java and .NET",
+                "owner": "Eurostat",
+                "license": "Free",
+                "url": "https://cros.ec.europa.eu/dashboard/sdmx-source",
+                "image": "https://cros.ec.europa.eu/system/file/pm2bOrhn4QW5H5d4l5vsGTeO-2iiqlyiRTKA2a70XZ8/1726236000/2024-09/SDMX-Source_Final.png"
+            },
+ {
+                "name": "SDMX Reference Infrastructure",
+                "description": "The SDMX-RI is a set of pick-and-choose building blocks and tools that allow data to be exposed to the external world through access rights by using web services",
+                "supported_features" : "SDMX-RI enables the production and dissemination of SDMX data from existing reference/dissemination databases. It is composed of reusable building blocks that are designed to provide data and structural metadata based on mappings to each organisation's dissemination data warehouse. SDMX-RI was developed in Java and .NET",
+                "owner": "Eurostat",
+                "license": "Free",
+                "url": "https://cros.ec.europa.eu/dashboard/sdmx-ri",
+                "image": "https://cros.ec.europa.eu/system/file/OIVV6XstQK_RX3IMUzG-0owq5D-bQF3HwzsrnwV5hmU/1726236000/2024-09/EN_06_SDMX_Reference_Infrastructure_copy.png"
+            },
+
             {
                 "name": "SDMX in EViews",
                 "description": "<ul>SDMX in EViews is a web-application to download SDMX data into EViews. The app is built upon EViews ability to read HTML tables and works by translating HTML requests into SDMX requests and SDMX data into HTML table that can be easily downloaded by EViews.</ul><ul>The app supports SDMX 2.1 requests for any providers. In addition, the app provides access to the lists of datasets, dimensions and codelists for Insee, ECB, Eurostat and Worldbank data.</ul><ul>How to use the web-application along with examples is described on the homepage of the web-application: http://sdmx.herokuapp.com. To ease the use of the app, an Eviews subroutine can also be downloaded at  http://sdmx.herokuapp.com/sub.html.</ul>",
