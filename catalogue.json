@@ -159,6 +159,15 @@
                 "license": "Commercial License",
                 "url": "https://quanthub.cloud",
                 "image": ""
+            },
+             {
+                "name": "SDMX Connectors",
+                "description": "A set of plugins that can be used to browse the contents of SDMX providers, build queries and get data and metadata directly in the most popular data analysis tools (i.e. R, MATLAB, SAS, STATA, Excel).",
+                "supported_features": "<ul><li>Download time series in R</li><li>Download datasets in R, MATLAB, STATA, SAS, Excel</li><li>Add new SDMX Providers on-the-fly</li><li>Add new SDMX Providers on-the-fly</li></ul>",
+                "owner": "Bank of italy",
+                "license": "European Union Public Licence",
+                "url": "https://github.com/amattioc/SDMX",
+                "image": ""
             }
         ]
     }
