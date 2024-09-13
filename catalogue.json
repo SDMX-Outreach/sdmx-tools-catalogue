@@ -163,8 +163,8 @@
 
             {
                 "name": "SDMX in EViews",
-                "description": "<ul><li>SDMX in EViews is a web-application to download SDMX data into EViews. The app is built upon EViews ability to read HTML tables and works by translating HTML requests into SDMX requests and SDMX data into HTML table that can be easily downloaded by EViews.</li><li>The app supports SDMX 2.1 requests for any providers. In addition, the app provides access to the lists of datasets, dimensions and codelists for Insee, ECB, Eurostat and Worldbank data.</li><li>How to use the web-application along with examples is described on the homepage of the web-application: http://sdmx.herokuapp.com. To ease the use of the app, an Eviews subroutine can also be downloaded at  http://sdmx.herokuapp.com/sub.html.</li></ul>",
-                "supported_features" : "SDMX 2.1 requests",
+                "description": "SDMX in EViews is a web-application to download SDMX data into EViews. The app is built upon EViews ability to read HTML tables and works by translating HTML requests into SDMX requests and SDMX data into HTML table that can be easily downloaded by EViews.",
+                "supported_features" : "<ul><li>The app supports SDMX 2.1 requests for any providers. In addition, the app provides access to the lists of datasets, dimensions and codelists for Insee, ECB, Eurostat and Worldbank data.</li><li>How to use the web-application along with examples is described on the homepage of the web-application: http://sdmx.herokuapp.com. To ease the use of the app, an Eviews subroutine can also be downloaded at  http://sdmx.herokuapp.com/sub.html.</li></ul>",
                 "owner": "Banque de France (Macroeconomic Analysis and Forecasting Directorate)",
                 "license": "AGPL-3.0 license",
                 "url": "http://sdmx.herokuapp.com",
