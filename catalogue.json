@@ -79,7 +79,7 @@
             {
                 "name": ".Stat Suite",
                 "description": "The .Stat Suite is a standard-based, componentised, open-source platform for the efficient production and dissemination of high-quality statistical data. The product is based on the General Statistical Process Model (GSBPM) and the Statistical Data and Metadata eXchange standards.",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>Componentised architecture enabling a cooperative business model integrating open source tools to manage the complete data lifecycle.</li><li>A fully automated \"DevSecOps\" operation providing a flexible choice of deployment approaches (containerisation, docker, Kubernetes) and hosting options (on-premise, cloud, hybrid)</li></ul>",
                 "owner": "SIS-CC (OECD)",
                 "license": "MIT",
                 "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/",
@@ -88,7 +88,7 @@
             {
                 "name": ".Stat Data Explorer",
                 "description": "The .Stat Suite Data Explorer, a web-based application to easily find, access, and share data through a well-tuned navigation. Powered by the open-source platform .Stat Suite for the dissemination of Official Statistics.",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>React JS, D3, NodeJS</li><li>Solr search engine</li><li>SDMX Connectors: ArcGIS and PowerBI</li></ul>",
                 "owner": "SIS-CC (OECD)",
                 "license": "MIT",
                 "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-data-explorer-de",
@@ -97,7 +97,7 @@
              {
                 "name": ".Stat Data Lifecycle Manager",
                 "description": "The .Stat Data Lifecycle Manager, a set of adaptive back-office modules to efficiently and timely produce and (re-)use high quality statistical data by defining, running, automating, controlling and evaluating the underlying data processes.",
-                "supported_features" : "This is an extended text to add more information about the tool, it could contain information about platforms etc.",
+                "supported_features" : "<ul><li>React JS, NodeJS</li><li>Excel Add-in (SDMXSource)</li><li>FMR Workbench integration</li><li>SDMX  Libraries: R, Python, STATA</li></ul>",
                 "owner": "SIS-CC (OECD)",
                 "license": "MIT",
                 "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-data-lifecycle-manager-dlm",
@@ -106,7 +106,7 @@
             {
                 "name": ".Stat Core",
                 "description": "Fast and secure SDMX Data Store leveraging Eurostat’s (NSI Web Service implementation within its SDMX Reference Infrastructure.",
-                "supported_features": "Stores and retrieves statistical data & attribute values, localizable structural & referential metadata, data process information & user roles and permissions. Allows customising the authentication method with any identity provider based on the OpenID Connect standard. Implements a secure configuration approach. Allows managing separate physical versions of data as it goes through the statistical production life cycle (raw input data, processed data, data prepared for dissemination/reporting, disseminated/reported data, archived data, …) by using multiple instances of the Data Store facilitated with a specific data transfer service.",
+                "supported_features": "Stores and retrieves statistical data & attribute values, localizable structural & referential metadata, data process information & user roles and permissions. Allows customising the authentication method with any identity provider based on the OpenID Connect standard. Implements a secure configuration approach. Allows managing separate physical versions of data as it goes through the statistical production life cycle (raw input data, processed data, data prepared for dissemination/reporting, disseminated/reported data, archived data, …) by using multiple instances of the Data Store facilitated with a specific data transfer service.<ul><li>.NET Core</li><li>MSSQL Server, Maria DB</li><li>SDMX 2.0, 2.1 JSON, CSV, XML</li><li>Partial support for SDMX 3.0 (ongoing)</li></ul>",
                 "owner": "SIS-CC (OECD)",
                 "license": "MIT",
                 "url": "https://sis-cc.gitlab.io/dotstatsuite-documentation/about/product-overview/#stat-core",
