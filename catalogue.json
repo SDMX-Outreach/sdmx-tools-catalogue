@@ -1,15 +1,21 @@
 {
     "sdmxtools": {
         "resources": [
+            {
+                "description": "The SDMX Global Registry is the official repository for SDMX Global DSDs, shared DSDs and cross-domain artefacts",
+                "supported_features" : "The SDMX Global Registry Content Policy published on sdmx.org sets out the policy for artefacts stored, maintained and disseminated from the SDMX Global Registry",
+                "url": "https://registry.sdmx.org/",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx-global-registry.png"
+            },            
            {
-                "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions.",
-                "supported_features" : "This is an extended text to add more information about the resource.",
+                "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions",
+                "supported_features" : "<p>The objective of the SDMX TCK is to query an SDMX RESTful endpoint and provide a report with:</p><ul><li>The level of compliance, ie if the SDMX RESTful API is respected, by testing:<ul><li>All SDMX specified resources,</li><li>SDMX standard mime types,</li><li>The SDMX error codes,</li><li>Other features specified by the SDMX standard.</li></ul></li><li>The coverage: what percentage of resources and features are supported in terms of the specified responses.</li></ul>",
                 "url": "https://www.sdmx.io/tools/sdmx-tck/",
                 "image": "https://www.sdmx.io/images/tools/sdmx-tck/TCK_Logo_RGB.svg"
             },
             {
                 "description": "sdmx.io is not a single project but an ecosystem of open source tools, patterns, guidance, learning materials and other resources like pre-configured containerised environments that make the software quick and simple to deploy. Sdmx.io, a valuable resource for tool developers as well as adopters.",
-                "supported_features" : "This is an extended text to add more information about the resource.",
+                "supported_features" : "sdmx.io covers the four main use cases in the statistics lifecycle:<ul><li>Data domain modelling</li><li>Data collection</li><li>Statistics production</li><li>Statistics dissemination</li></ul>",
                 "url": "https://wwww.sdmx.io",
                 "image": "https://www.sdmx.io/images/icons/Kraken_Main.svg"
             }
