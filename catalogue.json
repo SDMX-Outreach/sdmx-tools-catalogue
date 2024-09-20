@@ -191,7 +191,7 @@
                 "owner": "Department of Statistics, International Labour Organization (ILO)",
                 "license": "Free",
                 "url": "https://webapps.ilo.org/ilostat/tools/SdmxExcelAddin/Install.htm",
-                "image": ""
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             },
             {
                 "name": "SDMX in EViews",
@@ -209,7 +209,7 @@
                 "owner": "EPAM Systems",
                 "license": "Commercial License",
                 "url": "https://quanthub.cloud",
-                "image": ""
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             },
             {
                 "name": "RSDMX",
@@ -218,7 +218,7 @@
                 "owner": "Emmanuel Blondel",
                 "license": "MIT",
                 "url": "https://github.com/opensdmx/rsdmx/wiki",
-                "image": ""
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             }
             ,
             {
@@ -228,7 +228,7 @@
                 "owner": "Bank of italy",
                 "license": "European Union Public Licence",
                 "url": "https://github.com/amattioc/SDMX",
-                "image": ""
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             }
         ]
     }
