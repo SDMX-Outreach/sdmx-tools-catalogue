@@ -26,7 +26,7 @@
                 "name": "pysdmx",
                 "description": "pysdmx is a pragmatic and opinionated library written in Python. It focuses on simplicity, providing a subset of SDMX functionalities without requiring advanced knowledge of SDMX",
                 "supported_features" : "<ul><li>Simplified subset of the SDMX information model in Python</li><li>Retrieve metadata from an SDMX registry to drive statistical processes</li><li>Data discovery and data retieval</li></ul>",
-                "owner": "BIS",
+                "owner": "BIS & Meaningful Data",
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/pysdmx/",
                 "image": "https://www.sdmx.io/images/tools/linkage-x/pysdmx_logo_final_RGB.svg"
