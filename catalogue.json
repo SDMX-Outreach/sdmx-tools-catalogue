@@ -219,8 +219,7 @@
                 "license": "MIT",
                 "url": "https://github.com/opensdmx/rsdmx/wiki",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
-            }
-            ,
+            },
             {
                 "name": "SDMX Connectors",
                 "description": "A set of plugins that can be used to browse the contents of SDMX providers, build queries and get data and metadata directly in the most popular data analysis tools (i.e. R, MATLAB, SAS, STATA, Excel).",
@@ -229,6 +228,15 @@
                 "license": "European Union Public Licence",
                 "url": "https://github.com/amattioc/SDMX",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_connectors.png"
+            },
+            {
+                "name": "VTL Engine & Editor",
+                "description": "The prototypal engine and editor for the Validation and Transformation Language.",
+                "supported_features": "<ul><li>Interactively edit and run VTL transformation schemes in R Shiny</li><li>Connect to SDMX 2.1 registries to manipulate datasets and schemes</li><li>Describe and load R dataframes and CSV files and export results to R</li><li>Interface with Spark to leverage cluster computation</li></ul>",
+                "owner": "Bank of italy",
+                "license": "European Union Public Licence 1.2",
+                "url": "https://github.com/vpinna80/VTL",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/BoI_VTL_Engine.svg"
             }
         ]
     }
