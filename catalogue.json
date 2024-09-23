@@ -228,7 +228,7 @@
                 "owner": "Bank of italy",
                 "license": "European Union Public Licence",
                 "url": "https://github.com/amattioc/SDMX",
-                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_connectors.png"
             }
         ]
     }
