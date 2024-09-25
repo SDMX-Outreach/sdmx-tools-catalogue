@@ -16,7 +16,7 @@
             {
                 "description": "sdmx.io is not a single project but an ecosystem of open source tools, patterns, guidance, learning materials and other resources like pre-configured containerised environments that make the software quick and simple to deploy. Sdmx.io, a valuable resource for tool developers as well as adopters.",
                 "supported_features" : "sdmx.io covers the four main use cases in the statistics lifecycle:<ul><li>Data domain modelling</li><li>Data collection</li><li>Statistics production</li><li>Statistics dissemination</li></ul>",
-                "url": "https://wwww.sdmx.io",
+                "url": "https://www.sdmx.io",
                 "image": "https://www.sdmx.io/images/icons/Kraken_Main.svg"
             }
             
