@@ -239,6 +239,15 @@
                 "image": "https://raw.githubusercontent.com/InseeFr/Trevas/refs/heads/master/docs/static/img/logo_trevas_dark.svg"
             },
             {
+                "name": "Trevas TS",
+                "description": "Trevas TS is a TypeScript VTL engine for the Validation and Transformation Language (VTL), that allows the formal definition of algorithms to validate statistical data and calculate derived data in browser or node environment.",
+                "supported_features": "<ul><li>VTL 2.1 support</li><li>Available on NPM</li></ul>",
+                "owner": "French National Institute of Statistics and Economic Studies (INSEE)",
+                "license": "MIT",
+                "url": "https://github.com/InseeFr/Trevas-TS",
+                "image": "https://raw.githubusercontent.com/InseeFr/Trevas-TS/refs/heads/master/docs/static/img/logo_trevas_TS_light.svg"
+            },
+            {
                 "name": "VTL Engine & Editor",
                 "description": "The prototypal engine and editor for the Validation and Transformation Language.",
                 "supported_features": "<ul><li>Interactively edit and run VTL transformation schemes in R Shiny</li><li>Connect to SDMX 2.1 registries to manipulate datasets and schemes</li><li>Describe and load R dataframes and CSV files and export results to R</li><li>Interface with Spark to leverage cluster computation</li></ul>",
