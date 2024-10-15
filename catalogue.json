@@ -231,7 +231,7 @@
             },
             {
                 "name": "Trevas",
-                "description": "Trevas (Transformation engine and validator for statistics) is a Java engine for the Validation and Transformation Language (VTL), that allows the formal definition of algorithms to validate statistical data and calculate derived data.",
+                "description": "Trevas (Transformation engine and validator for statistics) is an easy to use Java engine for the Validation and Transformation Language (VTL). Its development is use-case driven: sponsoring new functionalities can be requested through GitHub issues.",
                 "supported_features": "<ul><li>VTL 2.1 support</li><li>Available on Maven</li><li>Apache Spark engine for Big Data production environments</li><li>Connect to CSV, Parquet, JSON, JDBC sources</li><li>SDMX connector</li><li>Provenance tools</li></ul>",
                 "owner": "French National Institute of Statistics and Economic Studies (INSEE)",
                 "license": "MIT",
@@ -240,7 +240,7 @@
             },
             {
                 "name": "Trevas TS",
-                "description": "Trevas TS is a TypeScript VTL engine for the Validation and Transformation Language (VTL), that allows the formal definition of algorithms to validate statistical data and calculate derived data in browser or node environment.",
+                "description": "Trevas TS is a TypeScript VTL engine for the Validation and Transformation Language (VTL); it can execute VTL scripts in any web browser or any server side runtime like Node",
                 "supported_features": "<ul><li>VTL 2.1 support</li><li>Available on NPM</li></ul>",
                 "owner": "French National Institute of Statistics and Economic Studies (INSEE)",
                 "license": "MIT",
