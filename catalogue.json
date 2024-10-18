@@ -264,6 +264,15 @@
                 "license": "AGPL-3.0",
                 "url": "https://github.com/Meaningful-Data/vtlengine",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
+            },
+            {
+                "name": "VTL Suite",
+                "description": "The VTL Suite implements the vision of VTL as a product. It implements a set of tools that enables seamless use of VTL within an organization. It is an enterprise-ready solution including a VTL IDE with users and roles management, audit track and version history, as well as a REST API and task manager for professional integration of VTL in data pipelines.",
+                "supported_features": "Full support of VTL",
+                "owner": "Meaningful Data",
+                "license": "Commercial License",
+                "url": "https://www.meaningfuldata.eu",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             }
         ]
     }
