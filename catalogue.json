@@ -255,6 +255,15 @@
                 "license": "European Union Public Licence 1.2",
                 "url": "https://github.com/vpinna80/VTL",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/BoI_VTL_Engine.svg"
+            },
+             {
+                "name": "VTL Engine",
+                "description": "The VTL Engine is an open-source Python VTL interpreter. It provides a full implementation of the VTL language.  Allows the user to perform semantic validations and executions of VTL scripts.",
+                "supported_features": "Full support of VTL",
+                "owner": "Meaningful Data",
+                "license": "AGPL-3.0",
+                "url": "https://github.com/Meaningful-Data/vtlengine",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             }
         ]
     }
