@@ -273,6 +273,24 @@
                 "license": "Commercial License",
                 "url": "https://www.meaningfuldata.eu",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
+            },
+            {
+                "name": "sdmx1",
+                "description": "Python implementation of the SDMX Information Model, file formats, and SDMX-REST API client.",
+                "supported_features": "<ul><li>Complete, standards-compliant, Pythonic, and fully-documented implementation of the SDMX-IM 2.1 and 3.0.0 Information Models.</li><li>Input and output of SDMX-CSV, SDMX-ML, SDMX-JSON.</li><li>Conversion to pandas data structures.</li><li>Library of test specimens and full test coverage.</li></ul>",
+                "owner": "Paul Natsuo Kishimoto",
+                "license": "Apache 2.0",
+                "url": "https://sdmx1.readthedocs.io",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
+            },
+            {
+                "name": "dsss",
+                "description": "A “dead-simple SDMX server” in Python.",
+                "supported_features": "<ul><li>Standards-compliant; returns SDMX-ML for all SDMX-REST API endpoints.</li><li>Configurable and extensible storage back-end for SDMX artefacts.</li><li><a href=\"https://www.starlette.io\">starlette</a>-based.</li></ul>",
+                "owner": "Paul Natsuo Kishimoto",
+                "license": "AGPL 3.0",
+                "url": "https://dsss.readthedocs.io",
+                "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx_tools_default.svg"
             }
         ]
     }
