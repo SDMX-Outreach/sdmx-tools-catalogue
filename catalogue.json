@@ -6,7 +6,7 @@
                 "supported_features" : "The SDMX Global Registry Content Policy published on sdmx.org sets out the policy for artefacts stored, maintained and disseminated from the SDMX Global Registry",
                 "url": "https://registry.sdmx.org/",
                 "image": "https://raw.githubusercontent.com/SDMX-Outreach/sdmx-tools-catalogue/main/images/tools/sdmx-global-registry.png"
-            },            
+            },
            {
                 "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions",
                 "supported_features" : "<p>The objective of the SDMX TCK is to query an SDMX RESTful endpoint and provide a report with:</p><ul><li>The level of compliance, ie if the SDMX RESTful API is respected, by testing:<ul><li>All SDMX specified resources,</li><li>SDMX standard mime types,</li><li>The SDMX error codes,</li><li>Other features specified by the SDMX standard.</li></ul></li><li>The coverage: what percentage of resources and features are supported in terms of the specified responses.</li></ul>",
@@ -19,7 +19,7 @@
                 "url": "https://www.sdmx.io",
                 "image": "https://www.sdmx.io/images/icons/Kraken_Main.svg"
             }
-            
+
         ],
         "tools": [
             {
@@ -39,7 +39,7 @@
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/fmr/",
                 "image": "https://www.sdmx.io/tools/fmr/FMR-Logo_FINAL_Icon.svg"
-            },       
+            },
             {
                 "name": "FMR Workbench",
                 "description": "The FMR Workbench is a remote registry browser and metadata maintenance tool which brings the strengths and capabilities of the FMR User Interface to any SDMX compliant registry, implementing an SDMX RESTful API",
@@ -48,7 +48,7 @@
                 "license": "Apache",
                 "url": "https://www.sdmx.io/tools/fwb/",
                 "image": "https://www.sdmx.io/images/tools/fwb-logo.jpg"
-            },      
+            },
             {
                 "name": "Fusion Transformer",
                 "description": "Fusion Transformer is a Java command line application that can be run on both Windows and Unix for transforming SDMX data and structure files supporting EDI, XML, JSON and CSV",
@@ -57,7 +57,7 @@
                 "license": "Apache",
                 "url": "https://www.sdmx.io/resources/download/ft/",
                 "image": "https://www.sdmx.io/images/products/card-ft.png"
-            },                              
+            },
             {
                 "name": "SDMX Dashboard Generator",
                 "description": "The SDMX Dashboard Generator (SDMX DG), co-winner of the SDMX Global Conference 2023 Hackathon, is an open source application that generates dynamic dashboards.",
