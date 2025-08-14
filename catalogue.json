@@ -10,7 +10,7 @@
            {
                 "description": "The SDMX Test Compability Kit (SDMX TCK) is a tool for measuring the compliance and coverage of an SDMX RESTful endpoint against the available SDMX REST API versions",
                 "supported_features" : "<p>The objective of the SDMX TCK is to query an SDMX RESTful endpoint and provide a report with:</p><ul><li>The level of compliance, ie if the SDMX RESTful API is respected, by testing:<ul><li>All SDMX specified resources,</li><li>SDMX standard mime types,</li><li>The SDMX error codes,</li><li>Other features specified by the SDMX standard.</li></ul></li><li>The coverage: what percentage of resources and features are supported in terms of the specified responses.</li></ul>",
-                "url": "https://www.sdmx.io/tools/sdmx-tck/",
+                "url": "https://www.sdmx.io/software/sdmx-tck/",
                 "image": "https://www.sdmx.io/images/tools/sdmx-tck/TCK_Logo_RGB.svg"
             },
             {
@@ -28,7 +28,7 @@
                 "supported_features" : "<ul><li>Simplified subset of the SDMX information model in Python</li><li>Retrieve metadata from an SDMX registry to drive statistical processes</li><li>Data discovery and data retrieval</li></ul>",
                 "owner": "BIS & Meaningful Data",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/tools/pysdmx/",
+                "url": "https://www.sdmx.io/software/pysdmx/",
                 "image": "https://www.sdmx.io/images/tools/linkage-x/pysdmx_logo_final_RGB.svg"
             },
             {
@@ -37,8 +37,8 @@
                 "supported_features" : "<ul><li>A controlled repository for SDMX structural metadata, which acts as a single source of truth for: automated metadata-driven data processing systems, metadata needed by data providers in data collections, structures for the purposes of standardisation, statistical data harmonisation, and communal benefit</li><li>Three integrated metadata-driven data processing services: data validation, data transformation (mapping data between structures) and conversion of data between SDMX data formats.</li><li>Metadata authoring and maintenance web UI, enabling metadata managers to browse, author and maintain their structural metadata model.</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/tools/fmr/",
-                "image": "https://www.sdmx.io/tools/fmr/FMR-Logo_FINAL_Icon.svg"
+                "url": "https://www.sdmx.io/software/fmr/",
+                "image": "https://www.sdmx.io/software/fmr/FMR-Logo_FINAL_Icon.svg"
             },
             {
                 "name": "FMR Workbench",
@@ -46,7 +46,7 @@
                 "supported_features" : "The FMR Workbench is a remote registry browser and metadata maintenance tool which brings the strengths and capabilities of the FMR User Interface to any SDMX compliant registry, implementing an SDMX RESTful API. One significant use case for FMR Workbench users is the ability to connect to .Stat-Suite spaces for browsing and maintaining .Stat-Suite structural metadata",
                 "owner": "BIS",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/tools/fwb/",
+                "url": "https://www.sdmx.io/software/fwb/",
                 "image": "https://www.sdmx.io/images/tools/fwb-logo.jpg"
             },
             {
@@ -55,7 +55,7 @@
                 "supported_features" : "<ul><li>SDMX structure messages: SDMX 2.0, 2.1, 3.0, XML and JSON</li><li>SDMX data messages: SDMX 2.1, 3.0, EDI, XML, JSON, CSV</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/resources/download/ft/",
+                "url": "https://www.sdmx.io/software/fusion-transformer",
                 "image": "https://www.sdmx.io/images/products/card-ft.png"
             },
             {
@@ -64,7 +64,7 @@
                 "supported_features" : "<ul><li>Most common visualization types such as key performance indicators (KPIs), lines, pie and bar charts</li><li>Dynamic integration of metadata available in multiple languages</li><li>Modularity and customizability of the dashboard layout and design set easily by the user via a specification file</li><li>Asynchronous retrieval of data and metadata from SDMX Rest API to ensure better performance</li><li>Running both on a local machine or on a server</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/tools/sdmx-dg/",
+                "url": "https://www.sdmx.io/software/sdmx-dg/",
                 "image": "https://www.sdmx.io/images/tools/sdmx-dg/Logo_RGB_colored.svg"
             },
             {
@@ -73,7 +73,7 @@
                 "supported_features" : "<ul><li>Data augmentation, to add more data from official sources using SDMX, improving the machine models being trained by the user</li><li>Relevant datasets, both real and simulated, to allow for easier model development and comparison</li><li>Automatic benchmark model, to assess candidate models against a reasonably well-performant model</li><li>Machine learning-based estimators, to help answer questions of academic or practical importance</li><li>Support for model documentation, to embed documentation and ethical considerations in the model development phase</li><li>Utilities, including tools to allow for lagging variables in a straightforward way</li></ul>",
                 "owner": "BIS",
                 "license": "Apache",
-                "url": "https://www.sdmx.io/tools/gingado/",
+                "url": "https://www.sdmx.io/software/gingado/",
                 "image": "https://www.sdmx.io/images/tools/linkage-x/logo-gingado.svg"
             },
             {
