@@ -148,7 +148,7 @@
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-converter",
                 "image": "https://ec.europa.eu/eurostat/documents/7589804/17996432/EN_05_SDMX_CONVERTER.png/1d559d5f-9899-c917-eb1a-d896d67b5089?t=1701270523160"
             },
- {
+           {
                 "name": "SDMX Source",
                 "description": "SDMX Source is a powerful library and programming API allowing developers to work with SDMX data and structural metadata.",
                 "supported_features" : "SDMX Source is available in Java and .NET",
@@ -157,7 +157,7 @@
                 "url": "https://cros.ec.europa.eu/dashboard/sdmx-source",
                 "image": "https://ec.europa.eu/eurostat/documents/7589804/17996432/EN_01_SDMX_SOURCE.png/fb5ff84e-d528-4e1a-5e06-40338825d6b2?t=1701270531013"
             },
- {
+            {
                 "name": "SDMX Reference Infrastructure",
                 "description": "SDMX-RI is a set of pick-and-choose building blocks and tools that allow data to be exposed to the external world through access rights by using web services",
                 "supported_features" : "SDMX-RI enables the production and dissemination of SDMX data from existing reference/dissemination databases. It is composed of reusable building blocks that are designed to provide data and structural metadata based on mappings to each organisation's dissemination data warehouse. SDMX-RI was developed in Java and .NET",
@@ -300,6 +300,15 @@
                 "license": "EUPL",
                 "url": "https://sdmxistattoolkit.github.io",
                 "image": "https://sdmxistattoolkit.github.io/images/logo_sdmx_istat_toolkit.png"
+            },
+            {
+                "name": "SDMX Helper",
+                "description": "As a client library, it allows users to fetch records from SDMX servers, parse JSON results and access properties in a well-typed interface.",
+                "supported_features": "This package was made while developing a mobile app and backend to support the use-case of extensive querying of SDMX servers that had to later be modeled and visualized. <ul><li>Fetch records from SDMX servers by passing arguments in a well-typed interface.<li>Decode JSON or CSV into parsed objects. Access properties safely and familiarly in classes modeled in Dart.<li>Use utility methods to filter through time series data or language locales.</ul>",
+                "owner": "Sohaib Baig",
+                "license": "Free",
+                "url": "https://pub.dev/packages/sdmx",
+                "image": "https://dart.dev/assets/img/logo/dart-192.svg"
             }
         ]
     }
