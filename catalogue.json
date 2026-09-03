@@ -50,15 +50,6 @@
                 "image": "https://www.sdmx.io/images/tools/fwb-logo.jpg"
             },
             {
-                "name": "Fusion Transformer",
-                "description": "Fusion Transformer is a Java command line application that can be run on both Windows and Unix for transforming SDMX data and structure files supporting EDI, XML, JSON and CSV",
-                "supported_features" : "<ul><li>SDMX structure messages: SDMX 2.0, 2.1, 3.0, XML and JSON</li><li>SDMX data messages: SDMX 2.1, 3.0, EDI, XML, JSON, CSV</li></ul>",
-                "owner": "BIS",
-                "license": "Apache",
-                "url": "https://www.sdmx.io/software/fusion-transformer",
-                "image": "https://www.sdmx.io/images/products/card-ft.png"
-            },
-            {
                 "name": "SDMX Dashboard Generator",
                 "description": "The SDMX Dashboard Generator (SDMX DG), co-winner of the SDMX Global Conference 2023 Hackathon, is an open source application that generates dynamic dashboards.",
                 "supported_features" : "<ul><li>Most common visualization types such as key performance indicators (KPIs), lines, pie and bar charts</li><li>Dynamic integration of metadata available in multiple languages</li><li>Modularity and customizability of the dashboard layout and design set easily by the user via a specification file</li><li>Asynchronous retrieval of data and metadata from SDMX Rest API to ensure better performance</li><li>Running both on a local machine or on a server</li></ul>",
